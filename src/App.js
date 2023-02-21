@@ -463,8 +463,8 @@ function App() {
   return (
     <>
     <Routes>
-      <Route path="/car/:id" element={  <CarDetails cars={cars}/> }/> 
-      <Route path="/" element={  <Home cars={cars}/> }/> 
+      <Route path="carmax-shop/car/:id" element={  <CarDetails cars={cars}/> }/> 
+      <Route path="carmax-shop/" element={  <Home cars={cars}/> }/> 
     </Routes>
     </>
   )

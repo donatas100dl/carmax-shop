@@ -11,7 +11,7 @@ function CarCard({ car, searchQuery, cars }) {
     return null;
   }
   return (
-    <Link to={`/car/${car.id}`} >
+    <Link to={`car/${car.id}`} >
     <Card className="">
       <Card.Img variant="top" src={car.img} />
       <Card.Body className="">

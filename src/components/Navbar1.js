@@ -17,8 +17,8 @@ function Navbar1() {
       style={{ minWidth: "60vw" }}
     >
       <Container fluid>
-        <Navbar.Brand href="/" className="pb-2">
-          <Link to="/">
+        <Navbar.Brand href="/carmax-shop" className="pb-2">
+          <Link to="/carmax-shop">
             <svg
               class="header-main-logo"
               height="24"

@@ -14,7 +14,7 @@ function CarDetail({ car }) {
 
           <div className=" max-w-fit">
             <Link
-              to={`/`}
+              to={`/carmax-shop`}
               className="d-flex flex-row mx-3 a-link p-2 rounded-md"
             >
               <span className="pt-1">
