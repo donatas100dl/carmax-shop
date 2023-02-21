@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/carmax-shop/static/css/main.7df43e32.css",
+    "main.js": "/carmax-shop/static/js/main.509e0c51.js",
+    "index.html": "/carmax-shop/index.html",
+    "main.7df43e32.css.map": "/carmax-shop/static/css/main.7df43e32.css.map",
+    "main.509e0c51.js.map": "/carmax-shop/static/js/main.509e0c51.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7df43e32.css",
+    "static/js/main.509e0c51.js"
+  ]
+}
