@@ -1,0 +1,37 @@
+@tailwind components;
+@tailwind utilities;
+@tailwind base;
+
+.btn-close{
+    background-image: url(data:image/svg+xml,%3csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 16 16%27 fill=%27%23000%27%3e%3cpath d=%27M.293.293a1 1 0 0 1 1.414 0L8 6.586 14.293.293a1 1 0 1 1 1.414 1.414L9.414 8l6.293 6.293a1 1 0 0 1-1.414 1.414L8 9.414l-6.293 6.293a1 1 0 0 1-1.414-1.414L6.586 8 .293 1.707a1 1 0 0 1 0-1.414z%27/%3e%3c/svg%3e) !important;
+}
+
+svg {
+    fill: #005ab8;
+}
+
+.nav-link{
+    color: #053361 !important;
+}
+
+.a-link{
+    color: #005ab8;
+}
+.a-link:hover{
+    background-color: #f0f7fc;
+}
+
+.filter-position{
+    position: sticky;
+    top: 0;
+}
+
+#car-spec{
+    max-width: 100%;
+}
+
+@media (min-width: 1000px) {
+    #car-spec{
+        max-width: 40%;
+    }
+}
