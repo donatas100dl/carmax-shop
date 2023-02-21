@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/carmax-shop/static/css/main.7df43e32.css",
-    "main.js": "/carmax-shop/static/js/main.d49162b9.js",
+    "main.js": "/carmax-shop/static/js/main.65452f76.js",
     "index.html": "/carmax-shop/index.html",
     "main.7df43e32.css.map": "/carmax-shop/static/css/main.7df43e32.css.map",
-    "main.d49162b9.js.map": "/carmax-shop/static/js/main.d49162b9.js.map"
+    "main.65452f76.js.map": "/carmax-shop/static/js/main.65452f76.js.map"
   },
   "entrypoints": [
     "static/css/main.7df43e32.css",
-    "static/js/main.d49162b9.js"
+    "static/js/main.65452f76.js"
   ]
 }
